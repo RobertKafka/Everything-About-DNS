@@ -71,7 +71,7 @@ DNS uses a client-server model, with DNS resolvers acting as clients that query 
 Recursion and recursion queries allow higher-level DNS servers to recursively resolve names on behalf of clients, traversing down the DNS hierarchy until they reach an authoritative DNS server for that domain.
 
 
-# Types of servers invloved in DNS resolution process
+# Types of servers involved in DNS resolution process
 
 ## Explain like I am Five
 
